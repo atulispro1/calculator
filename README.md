@@ -1,6 +1,6 @@
 # 🧮 Calculator Website  
 
-🌐 **Live Demo:** [Calculator Website](https://atulispro.github.io/calculator-website/)  
+🌐 **Live Demo:** [Calculator Website](https://atulispro1.github.io/calculator/)  
 
 A modern and responsive **Calculator Website** built with **HTML, CSS, and JavaScript**.  
 This project is designed to perform all the basic arithmetic operations (addition, subtraction, multiplication, division) with a clean and user-friendly interface.  
